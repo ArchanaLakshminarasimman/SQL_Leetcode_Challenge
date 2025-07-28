@@ -3,9 +3,9 @@
 # List of Problems
 
 
-| Problem ID | Title                                                                                                                                          | Difficulty | 
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 1407       | [Top Travellers](https://leetcode.com/problems/top-travellers)                                                                                 | Easy       | 
+| Problem ID | Title                                                                                                                                          | Difficulty | Folder Link |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------| -----------|
+| 1407       | [Top Travellers](https://leetcode.com/problems/top-travellers)                                                                                 | Easy       | [Link](./1407_Top_Travellers/README.md) |
 | 262        | [Trips and Users](https://leetcode.com/problems/trips-and-users)                                                                               | Hard       | 
 | 1527       | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)                                                           | Easy       | 
 | 1667       | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)                                                                     | Easy       | 
