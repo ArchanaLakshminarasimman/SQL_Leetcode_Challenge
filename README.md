@@ -7,7 +7,7 @@
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------| -----------|
 | 1407       | [Top Travellers](https://leetcode.com/problems/top-travellers)                                                                                 | Easy       | [Link](./1407_Top_Travellers/README.md) |
 | 262        | [Trips and Users](https://leetcode.com/problems/trips-and-users)                                                                               | Hard       | 
-| 1527       | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)                                                           | Easy       | [Link](./1527_Patients With a Condition/README.md) |
+| 1527       | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)                                                           | Easy       | [Link](./1527_Patients%20With%20a%20Condition/README.md) |
 | 1667       | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)                                                                     | Easy       | 
 | 1179       | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table)                                                           | Easy       |
 | 1084       | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii)                                                                         | Easy       | 
