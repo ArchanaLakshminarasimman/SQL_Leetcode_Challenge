@@ -5,7 +5,7 @@
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 **Table:** `Patients`
 
@@ -27,7 +27,7 @@ Write a solution to find the `patient_id`, `patient_name`, and `conditions` of p
 
 ---
 
-### 📥 Input Example:
+### Input Example:
 
 **Patients table:**
 
@@ -41,7 +41,7 @@ Write a solution to find the `patient_id`, `patient_name`, and `conditions` of p
 
 ---
 
-### 📤 Output:
+### Output:
 
 | patient_id | patient_name | conditions   |
 |------------|--------------|--------------|
@@ -50,7 +50,7 @@ Write a solution to find the `patient_id`, `patient_name`, and `conditions` of p
 
 ---
 
-### 🧠 Explanation:
+### Explanation:
 
 - **Bob** has a condition `DIAB100` which starts with `DIAB1`.
 - **George** also has a condition that includes `DIAB100`.
@@ -58,6 +58,6 @@ Write a solution to find the `patient_id`, `patient_name`, and `conditions` of p
 
 ---
 
-## ✅ Solution
+## Solution
 
 See [`1527_solution.sql`](./1527_solution.sql)
