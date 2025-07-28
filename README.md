@@ -8,7 +8,7 @@
 | 1407       | [Top Travellers](https://leetcode.com/problems/top-travellers)                                                                                 | Easy       | [Link](./1407_Top_Travellers/README.md) |
 | 262        | [Trips and Users](https://leetcode.com/problems/trips-and-users)                                                                               | Hard       | 
 | 1527       | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)                                                           | Easy       | [Link](./1527_Patients%20With%20a%20Condition/README.md) |
-| 1667       | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)                                                                     | Easy       | [Link](1667_Fix_Names_in_a_Table/README.md) |
+| 1667       | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)                                                                     | Easy       | [Link](./1667_Fix_Names_in_a_Table/README.md) |
 | 1179       | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table)                                                           | Easy       | 
 | 1084       | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii)                                                                         | Easy       | 
 | 511        | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i)                                                                     | Easy       | 
@@ -20,7 +20,7 @@
 | 178        | [Rank Scores](https://leetcode.com/problems/rank-scores)                                                                                       | Medium     | 
 | 180        | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)                                                                       | Medium     | 
 | 181        | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)                         | Easy       | 
-| 182        | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails)                                                                             | Easy       | [Link](182_Duplicate_Emails/README.md) |
+| 182        | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails)                                                                             | Easy       | [Link](./182_Duplicate_Emails/README.md) |
 | 183        | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)                                                           | Easy       | 
 | 184        | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary)                                                           | Medium     | 
 | 185        | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)                                                   | Hard       | 
