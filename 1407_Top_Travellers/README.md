@@ -83,4 +83,4 @@ Rides table:
 
 ## Solution
 
-See [`solution.sql`](./solution.sql)
+See [`solution.sql`](1407_Top_Travellers/1407_solution.sql)
