@@ -32,7 +32,7 @@
 | 584        | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee)                                                                   | Easy       | 
 | 586        | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders)                   | Easy       | 
 | 595        | [Big Countries](https://leetcode.com/problems/big-countries)                                                                                   | Easy       | 
-| 596        | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)                                                     | Easy       |
+| 596        | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/)                                            | Easy       |
 | 1729       | [Find Followers Count](https://leetcode.com/problems/find-followers-count)                                                                     | Easy       |
 | 601        | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/)                                                | Hard       |
 | 1484       | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/)                                  | Easy       |
